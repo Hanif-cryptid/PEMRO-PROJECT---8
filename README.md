@@ -1,4 +1,4 @@
-# Pemrograman Komputer - Kelompok 1
+# Pemrograman Komputer Kelompok 8
 ### Dataset
 Nigerian Oil and Gas
 
